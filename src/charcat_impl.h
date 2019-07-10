@@ -1,3 +1,5 @@
+#pragma once
+
 #include "charcat.h"
 
 #include <vector>
